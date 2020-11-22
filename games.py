@@ -1,5 +1,6 @@
 """Games or Adversarial Search (Chapter 5)"""
 
+# ***Requires numpy and __pycache__***
 import copy
 import itertools
 import random
